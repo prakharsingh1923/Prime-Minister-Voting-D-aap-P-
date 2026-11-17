@@ -153,9 +153,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👥 Contributors
 
+- **Prakhar Singh** - [LinkedIn](https://www.linkedin.com/in/prakhar-singh-1b9614185/) | [GitHub](https://github.com/prakharsingh1923/Prime-Minister-Voting-D-aap-P-)
 - **Parth Armarkar** - [LinkedIn](http://www.linkedin.com/in/parth-armarkar-052551289) | [GitHub](https://github.com/Parth-GECA-IT)
 - **Karan Gawande** - [LinkedIn](linkedin.com/in/karan-gawande-64aa3b231) | [GitHub](https://github.com)
 - **Mihir Mudholkar** - [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
-- **Prakhar Singh** - [LinkedIn](https://www.linkedin.com/in/prakhar-singh-1b9614185/) | [GitHub](https://github.com/prakharsingh1923/E-voting-Dapp)
 
 Feel free to fork, contribute, or report issues!
